@@ -1,0 +1,59 @@
+#mychoice{
+	background: black;
+	color: white;
+	border: 5px dashed black;
+	border-radius: 30px;	
+}
+#centered{
+	background: gray;
+	color: black;
+	border: 5px dashed red;
+	width: 500px;
+	margin: auto;
+	border-radius: 50px;
+	text-align: center;
+	}
+#default{
+	background: gray;
+	color: red;
+	text-align: center;
+	font-weight: bold;
+	box-shadow: 0 0 5px rgba(0,0,0,0.5)
+}
+#absolute{
+	background: gray;
+	border: 5px dashed purple;
+	width: 400px;
+	height: 400px;
+	border-radius: 5px;
+	margin: auto;
+}
+#position{
+	background: purple;
+	color: black;
+	position: absolute;
+	bottom: auto;
+	top: auto;
+}
+#fixed{
+	background: purple;
+	color: gray;
+	border: 5px dotted black;
+	border-radius: 10px;
+	margin: 5px;
+	padding: 5px;
+}
+#relative-1{
+	border: 5px dashed yellow;
+	width: 500px;
+	height: 500px;
+	background: gray;
+}
+#relative-2{
+	position: relative;
+	background: red;
+	border: 5px dashed black;
+	color: white;
+	width: 1575px;
+	height: 400px;
+}

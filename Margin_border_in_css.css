@@ -1,0 +1,22 @@
+#myself{
+	background: gray;
+	color: black;
+	border: 20px dotted purple;
+	padding: 10px;
+	margin: 20px 30px;
+}
+#bold{
+	background: purple;
+	color: black;
+	font-weight: bold;
+}
+#small{
+	background: green;
+	color: yellow;
+	font-size: small;
+}
+#italic{
+	background: black;
+	color: purple;
+	font-size: italic;
+}

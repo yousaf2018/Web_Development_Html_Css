@@ -1,0 +1,12 @@
+ul{
+	background: #f7f7f7;
+	width: 200px;
+	height: 90px;
+}
+li:nth(2n){
+	background-color: white;
+	
+}
+p:hover {
+	cursor: pointer;
+}
